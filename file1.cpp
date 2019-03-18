@@ -13,6 +13,14 @@ class details
 			cout<<"enter roll number";
 			cin>>rollno;
 		}
+		void phone()
+		{
+			cout<<"enter phone number";
+			cin>>PhoneNo;
+		}
+}
+
+
 
 
 
