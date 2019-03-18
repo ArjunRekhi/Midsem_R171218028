@@ -1,7 +1,19 @@
 #include<iostream>
 using namespace std;
-int main()
-	{
-		cout<<"first";
-	}
+class details
+{string name,rollno,PhoneNo
+	public:
+		void n()
+		{
+		       cout<<"enter name";//taking name from the user
+		       cin>>name;
+		}
+		void roll()
+		{
+			cout<<"enter roll number";
+			cin>>rollno;
+		}
+
+
+
 
